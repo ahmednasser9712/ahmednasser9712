@@ -11,7 +11,7 @@ Applied AI, Machine Learning & Data Engineer focused on designing data pipelines
 ## About
 
 * **BSc in Artificial Intelligence (Intelligent Systems)**
-    Arab Academy for Science and Technology — International Dual Degree with Universidad Autónoma de Madrid (Spain)
+    Arab Academy for Science and Technology — International Dual Degree with Universidad Autónoma de Barcelona (Spain)
 * **Data Engineer (Intern & Junior) — COB Solutions**
     Architected scalable ETL pipelines, automated workflows via Airflow, and optimized data storage in Snowflake and GCP.
 * **Programming Instructor — Eyoth & iSchool**
